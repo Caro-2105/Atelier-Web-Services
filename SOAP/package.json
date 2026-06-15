@@ -1,0 +1,26 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Caro-2105/SOAP#readme",
+  "bugs": {
+    "url": "https://github.com/Caro-2105/SOAP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caro-2105/SOAP.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "pg": "^8.18.0",
+    "postgres": "^3.4.8",
+    "soap": "^1.6.4"
+  }
+}
